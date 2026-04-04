@@ -32,10 +32,6 @@ I'm Invalid Block, focused on gameplay systems development using Unity and C#.
 
 ---
 
-//## Featured Projects
-//
-//---
-
 ## Currently Exploring
 
 * Game architecture patterns;
