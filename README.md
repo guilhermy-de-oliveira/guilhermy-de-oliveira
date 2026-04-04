@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**InvalidBlock/invalidblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Invalid Block, focused on gameplay systems development using Unity and C#.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+* 🔭 Currently working on: **Aposhes**;
+* 🎓 Current focus: finishing high school and preparing for entrance exams;
+* 🎯 Goals:
+  * Study Software Engineering at university;
+  * Develop a full-scale RPG;
+  * Build a stable career in software development;
+* 💬 Topics: game development, music, games, history;
+
+---
+
+## Tech Stack
+
+### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
+
+### Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
+
+### Game Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45"/>
+
+---
+
+//## Featured Projects
+//
+//---
+
+## Currently Exploring
+
+* Game architecture patterns;
+* Unity mechanics;
