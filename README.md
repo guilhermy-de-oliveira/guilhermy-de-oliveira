@@ -1,16 +1,38 @@
-# React + Vite
+## Hi there 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+I'm Invalid Block, focused on gameplay systems development using Unity and C#.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+* 🔭 Currently working on: **Aposhes**;
+* 🎓 Current focus: finishing high school and preparing for entrance exams;
+* 🎯 Goals:
+  * Study Software Engineering at university;
+  * Develop a full-scale RPG;
+  * Build a stable career in software development;
+* 💬 Topics: game development, music, games, history;
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
+
+### Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
+
+### Game Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45"/>
+
+---
+
+## Currently Exploring
+
+* Game architecture patterns;
+* Unity mechanics;
