@@ -21,9 +21,7 @@ I'm Invalid Block, focused on gameplay systems development using Unity and C#.
 ### Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
-<br/>
 <img src="https://github.com/user-attachments/assets/7b7a0395-2d64-4106-b6ac-90412075a83c" width="45" />
-<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
 
 ### Frontend
