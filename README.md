@@ -6,7 +6,7 @@ I'm Invalid Block, focused on gameplay systems development using Unity and C#.
 
 ## About
 
-* 🔭 Currently working on: **Aposhes**;
+* 🔭 Currently working on: None exactly;
 * 🎓 Current focus: finishing high school and preparing for entrance exams;
 * 🎯 Goals:
   * Study Software Engineering at university;
