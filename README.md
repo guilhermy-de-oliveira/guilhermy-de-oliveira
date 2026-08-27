@@ -1,40 +1,36 @@
-## Hi there 👋
+<h2>Hi! 👋</h2>
 
-I'm Invalid Block, focused on gameplay systems development using Unity and C#.
+<p>I’m <strong>Invalid Block</strong>, an <strong>independent game developer</strong> as my main hobby, also an enthusiast of guitar and technology in general; aspiring to be a Software Engineer.</p>
 
----
-
-## About
-
-* 🔭 Currently working on: None exactly;
-* 🎓 Current focus: finishing high school and preparing for entrance exams;
-* 🎯 Goals:
-  * Study Software Engineering at university;
-  * Develop a full-scale RPG;
-  * Build a stable career in software development;
-* 💬 Topics: game development, music, games, history;
+<h3>Current Project</h3>
+<p>I don't have any projects currently, but I'm focused on expanding my knowledge of lower-level languages, mainly C and its derivatives.</p>
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://github.com/user-attachments/assets/7b7a0395-2d64-4106-b6ac-90412075a83c" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
-
-### Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
-
-### Game Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45"/>
+<h2>Goals</h2>
+<ul>
+   <li>Finish high school and pursue a degree in Software Engineering or any other college degree in the field of programming and Software Development;</li>
+   <li>To create an original RPG game that is both commercially available and original;</li>
+   <li>Build a solid career in software development;</li>
+</ul>
 
 ---
 
-## Currently Exploring
+<h2 align="center">Tech Stack</h2>
 
-* Game architecture patterns;
-* Unity mechanics;
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
+   <img src="https://github.com/user-attachments/assets/7b7a0395-2d64-4106-b6ac-90412075a83c" width="45" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45"/>
+</div>
+
+---
+
+<h2>More about me</h2>
+
+<p>My journey in game development has been long, but without a definitive, deep search that would allow me to make constant progress. My first contact was in mid-2018, during my childhood. I remained using only Scratch or no-code or low-code engines until 2022, when I started to truly explore Unity 2D and programming languages. I took a long break in 2024 and 2025, returning now in 2026 with a broader focus on programming. Therefore, even after several years, I still don't have a clear mastery of any language, but a superficial knowledge of various things in the field.</p>
+
+<p>Currently, I intend to change that; I'm focused on small projects in C, C++, and C# (mainly Unity 3D) with a learning focus rather than a commercial one.</p>
