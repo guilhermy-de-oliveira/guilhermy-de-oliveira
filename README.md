@@ -1,6 +1,7 @@
 <h2>Hi! 👋</h2>
 
-<p>I’m <strong>Invalid Block</strong>, an <strong>independent game developer</strong> as my main hobby, also an enthusiast of guitar and technology in general; aspiring to be a Software Engineer.</p>
+<p>I’m <strong>I’m Guilhermy de Oliveira</strong>, also known online as <strong>Invalid Block</strong>.</p>
+<p>I’m an aspiring Software Engineer and an independent game developer as a hobby, with a strong interest in programming, technology, and game development.</p>
 
 <h3>Current Project</h3>
 <p>I don't have any projects currently, but I'm focused on expanding my knowledge of lower-level languages, mainly C and its derivatives.</p>
