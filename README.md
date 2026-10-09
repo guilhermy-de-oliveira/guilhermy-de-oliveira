@@ -1,6 +1,6 @@
 <h2>Hi! 👋</h2>
 
-<p>I’m <strong>I’m Guilhermy de Oliveira</strong>, also known online as <strong>Invalid Block</strong>.</p>
+<p>I’m <strong> Guilhermy de Oliveira</strong>, also known online as <strong>Invalid Block</strong>.</p>
 <p>I’m an aspiring Software Engineer and an independent game developer as a hobby, with a strong interest in programming, technology, and game development.</p>
 
 <h3>Current Project</h3>
